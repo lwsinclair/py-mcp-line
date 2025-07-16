@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/amornpan-py-mcp-line-badge.png)](https://mseep.ai/app/amornpan-py-mcp-line)
+
 # Python LINE MCP Server
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/amornpan/py-mcp-line)
